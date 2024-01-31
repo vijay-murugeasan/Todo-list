@@ -1,5 +1,4 @@
-import React, { useState } from "react";
-import crossIcon from "../images/icon-cross.svg";
+import crossIcon from "../assets/images/icon-cross.svg";
 
 function Todo({ isDarkTheme, todo, onRemoveTodo, onCompleteTodo }) {
   const handleCompleteClick = () => {
