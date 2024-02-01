@@ -1,8 +1,6 @@
 # Todo App
 # Project Refrence - Frontend Mentor - Todo app
 
-## Overview
-
 ### The challenge
 
 Users should be able to:
